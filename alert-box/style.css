@@ -1,0 +1,40 @@
+.btn{
+ margin-left: 100px;
+ margin-top: 80px;
+ background-color: #c91d1d;
+ height: 40px;
+ width: 80px;
+ border-color: #c91d1d;
+ border-radius: 15%;
+ font-size: 20px;
+}
+.btn_two{
+ margin-left: 200px;
+ margin-top: 120px;
+ background-color: #16e774;
+ height: 40px;
+ width: 80px;
+ border-color: ##16e774;
+ border-radius: 15%;
+ font-size: 20px;
+}
+.btn_three{
+ margin-left: 200px;
+ margin-top: 120px;
+ background-color: #7816e7;
+ height: 40px;
+ width: 80px;
+ border-color: #7816e7;
+ border-radius: 15%;
+ font-size: 20px;
+}
+.name{
+    color:skyblue;
+    text-align: center;
+}
+p{
+    color: springgreen;
+}
+.single_name{
+    color: steelblue;
+}
